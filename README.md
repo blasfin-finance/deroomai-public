@@ -15,7 +15,7 @@ Photo-based [AI room design](https://deroomai.com) uses your photo as a structur
 - **Declutter** — strip everything except structure (real-estate agents use this for listing prep)
 - **Furniture swap** — replace one piece in place
 
-Bedroom-specific examples and presets: [AI bedroom design](https://deroomai.com/ai-bedroom-design).
+More on the model and approach: [AI interior design](https://deroomai.com/ai-interior-design).
 
 ## Try it
 
